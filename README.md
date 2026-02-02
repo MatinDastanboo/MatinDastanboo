@@ -5,11 +5,6 @@ at **Peter the Great St. Petersburg Polytechnic University (SPbPU)**.
 
 As a MSc student in Artificial Intelligence & Machine Learning at SPbPU, actively developing a broad foundation in AI. Past projects were conducted mainly for practical learning. My research interest is medical AI, and I am currently working on AI-based approaches for Alzheimer’s disease detection.
 
-
----
-
-## 🏷️ Technical & Academic Badges
-
 ![C](https://img.shields.io/badge/Language-C-blue)
 ![C11](https://img.shields.io/badge/Standard-ISO%20C11-blue)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
