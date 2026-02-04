@@ -76,6 +76,15 @@ A fully implemented **MySQL** relational database system for a car rental servic
 👉 https://github.com/SPBPU-Projects/mysql-car-rental-database
 
 ---
+###🔹**Machine Learning Project** 
+
+This project represents an applied machine learning study focused on healthcare-related data, developed as part of my academic training in Artificial Intelligence.
+The primary goal of the project is to design, implement, and evaluate a complete ML pipeline, including:
+data preprocessing and feature handling, model training and evaluation, result analysis and visualization.While this project serves as a learning-oriented implementation, it reflects my growing interest in medical AI applications.
+
+👉 https://github.com/SPBPU-Projects/ML-hospital-billing-prediction
+
+---
 
 ## 🛠️ Core Technical Skills
 
