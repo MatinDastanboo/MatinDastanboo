@@ -52,7 +52,7 @@ As a MSc student in Artificial Intelligence & Machine Learning at SPbPU, activel
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 ### 🔹 HPC Parallel Sorting
 Parallel sorting implementations using **MPI, OpenMP, Pthreads, and mpi4py**,
