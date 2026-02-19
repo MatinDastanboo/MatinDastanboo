@@ -28,7 +28,7 @@ As a MSc student in Artificial Intelligence & Machine Learning at SPbPU, activel
 
 ---
 
-🔗 Professional Links
+## 🔗 Professional Links
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/matindastanboo  
 - 🌐 **Website:** https://spbli.ir  
@@ -37,7 +37,7 @@ As a MSc student in Artificial Intelligence & Machine Learning at SPbPU, activel
 
 ---
 
-🧠 Academic & Research Background
+## 🧠 Academic & Research Background
 
 - MSc student in Artificial Intelligence & Machine Learning
 - Author of a peer-reviewed **conference paper** published on **Civilica**
@@ -66,7 +66,7 @@ executed and benchmarked on the **SPbPU Tornado supercomputer**.
 
 ---
 
-### 🔹 MySQL Car Rental Database System
+## 🔹 MySQL Car Rental Database System
 A fully implemented **MySQL** relational database system for a car rental service.
 
 - Normalized schema with integrity constraints
@@ -76,7 +76,7 @@ A fully implemented **MySQL** relational database system for a car rental servic
 👉 https://github.com/SPBPU-Projects/mysql-car-rental-database
 
 ---
-###🔹**Machine Learning Project** 
+## 🔹**Machine Learning Project** 
 
 This project represents an applied machine learning study focused on healthcare-related data, developed as part of my academic training in Artificial Intelligence.
 The primary goal of the project is to design, implement, and evaluate a complete ML pipeline, including:
