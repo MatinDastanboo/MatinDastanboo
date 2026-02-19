@@ -28,7 +28,7 @@ As a MSc student in Artificial Intelligence & Machine Learning at SPbPU, activel
 
 ---
 
-## 🔗 Professional Links
+🔗 Professional Links
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/matindastanboo  
 - 🌐 **Website:** https://spbli.ir  
@@ -37,7 +37,7 @@ As a MSc student in Artificial Intelligence & Machine Learning at SPbPU, activel
 
 ---
 
-## 🧠 Academic & Research Background
+🧠 Academic & Research Background
 
 - MSc student in Artificial Intelligence & Machine Learning
 - Author of a peer-reviewed **conference paper** published on **Civilica**
